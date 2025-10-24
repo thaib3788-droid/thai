@@ -1,5 +1,5 @@
 {
-  "name": "Video Vision AI",
+  "name": "AI Prompt",
   "description": "An advanced web application that leverages the Gemini Pro model to analyze video content. Users can upload a video, provide a text prompt, and receive detailed insights and information extracted from the video frames.",
   "requestFramePermissions": []
 }
